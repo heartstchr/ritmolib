@@ -3,12 +3,21 @@
 <title>Ritmo Lib</title>
 <head>
 <body>
-<section id="header"></section>
+<!--header section-->
+<section id="header">
+	<nav>
+		<ul>
+			<li><a href="#">Login <a></li>
+		</ul>
+	</nav>
+</section>
+<!--Body section-->
 <section id="body">
 	<form>
 		<a href=""><img src="img/go.png"></a>
 	</form>
 </section>
+<!--footer section-->
 <section id="footer"></section>
 
 </body>
